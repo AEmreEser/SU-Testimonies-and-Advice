@@ -8,9 +8,10 @@ Testimonies on courses offered at SU from previous students. Pull requests are w
     - Rewarded grade: The letter grade you earned upon completion. Use a 'W' if you withdrew from it. If you attempted the course more than once, state all letter grades (or 'W's) obtained.
     - Semester: Spring/Fall/Summer 20XX
     - Professor/Instructor: Who was teching the course when you were enrolled? If more than one, state all.
-3. You may discuss your own personal advice for future students, the learning curve, the grading scheme, the instructor's teaching style, whether the course was understaffed, how many people got A grades, the assistant's performance (keep it civil!) etc
-4. The length of your entry should at most be two paragraphs (3-5 sentences each) but one paragraph should be enough for most courses.
-5. Format your entry using proper markdown. Use bullets or numbered lists wherever appropriate. If your entry is hard to read, we'll tell you to write it again : )
+3. File names for entries should comply with the the following format: \<course code - all caps>_\<number of entries present in the repository for this course + 1>
+4. You may discuss your own personal advice for future students, the learning curve, the grading scheme, the instructor's teaching style, whether the course was understaffed, how many people got A grades, the assistant's performance (keep it civil!) etc
+5. The length of your entry should at most be two paragraphs (3-5 sentences each) but one paragraph should be enough for most courses.
+6. Format your entry using proper markdown. Use bullets or numbered lists wherever appropriate. If your entry is hard to read, we'll tell you to write it again : )
 
 ### An Example Entry
 This is an example entry about a course offered at another university:
